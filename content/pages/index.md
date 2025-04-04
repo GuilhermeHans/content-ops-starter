@@ -41,6 +41,7 @@ sections:
           padding:
             - pr-4
             - pt-4
+            - pl-4
     badge:
       label: This is a badge
       color: text-primary
