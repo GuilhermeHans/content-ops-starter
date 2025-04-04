@@ -45,7 +45,7 @@ sections:
           borderWidth: 2
     badge:
       label: This is a badge
-      color: text-light
+      color: text-dark
       type: Badge
     elementId: ''
     colors: bg-light-fg-dark
