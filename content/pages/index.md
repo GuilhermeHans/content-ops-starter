@@ -32,7 +32,6 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/empathy-logo.svg
       altText: nçnnwnle
       elementId: ''
       type: ImageBlock
