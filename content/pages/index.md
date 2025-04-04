@@ -44,7 +44,7 @@ sections:
             - pb-4
           borderWidth: 2
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
