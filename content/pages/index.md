@@ -33,7 +33,7 @@ sections:
         type: Link
     media:
       url: /images/empathy-logo.svg
-      altText: Unblock your team boost your time to production preview
+      altText: nçnnwnle
       elementId: ''
       type: ImageBlock
       styles:
